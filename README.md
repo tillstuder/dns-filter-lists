@@ -8,5 +8,16 @@ To use these filter lists, you can add them to your DNS resolver's configuration
 
 ## Available Lists
 
+The following lists are for my personal use and may not be suitable for everyone:
+
 - Allowlist: `https://raw.githubusercontent.com/tillstuder/dns-filter-lists/main/allowlist.txt`
 - Blocklist: `https://raw.githubusercontent.com/tillstuder/dns-filter-lists/main/blocklist.txt`
+
+## Other's Lists
+
+These lists are provided by other people and may be useful for your needs as well:
+
+- AdGuard DNS filter: `https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt`
+- HaGeZi's Pro DNS Blocklist: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt`
+- HaGeZi's Threat Intelligence Feeds DNS Blocklist: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt`
+- xRuffKez's Newly Registered Domains (14 days): `https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day/adblock/nrd-14day_adblock.txt`
