@@ -1,0 +1,5 @@
+! Title: Till Studer's Personal AdGuard Allowlist
+! Description: Allowlist for my personal use, so I don't have to maintain it in multiple places.
+! Source: https://github.com/tillstuder/dns-filter-lists/blob/main/allowlist.txt
+
+@@||switch.ch^$important
