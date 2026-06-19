@@ -3,3 +3,4 @@
 ! Source: https://github.com/tillstuder/dns-filter-lists/blob/main/allowlist.txt
 
 @@||switch.ch^$important
+@@||eduid.ch^$important
