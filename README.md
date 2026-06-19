@@ -17,7 +17,8 @@ The following lists are for my personal use and may not be suitable for everyone
 
 These lists are provided by other people and may be useful for your needs as well:
 
-- AdGuard DNS filter: `https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt`
+<!-- - AdGuard DNS filter: `https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt` -->
+- HaGeZi's Encrypted DNS Bypass DNS Blocklist: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh.txt`
 - HaGeZi's Pro DNS Blocklist: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt`
 - HaGeZi's Threat Intelligence Feeds DNS Blocklist: `https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt`
-- xRuffKez's Newly Registered Domains (14 days): `https://raw.githubusercontent.com/xRuffKez/NRD/refs/heads/main/lists/14-day/adblock/nrd-14day_adblock.txt`
+- HaGeZi's Newly Registered Domains (7 days): `https://raw.githubusercontent.com/hagezi/nrd/main/adblock/nrd7.txt`
